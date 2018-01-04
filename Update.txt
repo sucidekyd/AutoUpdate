@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/data/cbsuicidekyd.png http://jkiddo.x10host.com/LBUpdate/cbsuicidekyd.png
+
 <End of Version>
