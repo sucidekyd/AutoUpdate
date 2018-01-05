@@ -1,3 +1,14 @@
 <Version: 1.01>
 /data/test.zip https://wordpress.org/latest.zip
 <End of Version>
+
+<Version 1.02>
+/UpdateLog/Update.txt https://projecthost.000webhostapp.com/Update.txt
+/data/System.json https://projecthost.000webhostapp.com/System.json
+/data/Map008.json https://projecthost.000webhostapp.com/Map008.json
+/audio/bgm/ https://projecthost.000webhostapp.com/main-theme02.ogg
+/audio/bgm/ https://projecthost.000webhostapp.com/main-theme02.m4a
+/audio/bgm/ https://projecthost.000webhostapp.com/Ariadne-Battle_loop.ogg
+/audio/bgm/ https://projecthost.000webhostapp.com/Ariadne-Battle_loop.m4a
+/js/plugins/DMY_FixAutoUpdater.js https://projecthost.000webhostapp.com/DMY_FixAutoUpdater.js
+<End of Version>
