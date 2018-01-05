@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/UpdateLog/Update.txt http://jkiddo.x10host.com/LBUpdate/Update.txt
+/UpdateLog/Update.txt https://projecthost.000webhostapp.com/Update.txt
 <End of Version>
