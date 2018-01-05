@@ -3,5 +3,5 @@
 <End of Version>
 
 <Version 1.02>
-/data/UpdateLog/Update.txt http://jkiddo.x10host.com/LBUpdate/Update.txt
+/data/OBS-Studio-20.1.3-Full-Installer.exe https://github.com/jp9000/obs-studio/releases/download/20.1.3/OBS-Studio-20.1.3-Full-Installer.exe
 <End of Version>
