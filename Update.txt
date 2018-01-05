@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/Lost Beings/Update.txt http://jkiddo.x10host.com/LBUpdate/Update.txt
+/Update Info/Update.txt http://jkiddo.x10host.com/LBUpdate/Update.txt
 <End of Version>
