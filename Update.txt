@@ -2,3 +2,13 @@
 <Version: 1.01>
 /UpdateLog/Update.txt https://projecthost.000webhostapp.com/Update.txt
 <End of Version>
+
+<Version 1.02>
+/data/Map008.json https://projecthost.000webhostapp.com/Map008.json
+/data/System.json https://projecthost.000webhostapp.com/System.json
+/js/plugins/DMY_FixAutoUpdater.json https://projecthost.000webhostapp.com/DMY_FixAutoUpdater.js
+/audio/bgm/Ariadne-Battle_loop.m4a https://projecthost.000webhostapp.com/Ariadne-Battle_loop.m4a
+/audio/bgm/Ariadne-Battle_loop.ogg https://projecthost.000webhostapp.com/Ariadne-Battle_loop.ogg
+/audio/bgm/main-theme02.m4a https://projecthost.000webhostapp.com/main-theme02.m4a
+/audio/bgm/main-theme02.ogg https://projecthost.000webhostapp.com/main-theme02.ogg
+<End of Version>
