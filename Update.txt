@@ -3,5 +3,5 @@
 <End of Version>
 
 <Version 1.02>
-/UpdateLog/Test.txt https://projecthost.000webhostapp.com/Test.txt
+/UpdateLog/TEST.txt https://projecthost.000webhostapp.com/Test.txt
 <End of Version>
