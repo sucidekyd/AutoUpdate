@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-Lost Beigns/Update.txt http://jkiddo.x10host.com/LBUpdate/Update.txt
+Lost Beings/Update.txt http://jkiddo.x10host.com/LBUpdate/Update.txt
 <End of Version>
