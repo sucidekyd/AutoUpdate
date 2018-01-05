@@ -1,3 +1,3 @@
-<Version 1.01>
-/data/46iDwbx.jpg https://i.imgur.com/46iDwbx.jpg
+<Version: 1.01>
+/data/test.zip https://wordpress.org/latest.zip
 <End of Version>
