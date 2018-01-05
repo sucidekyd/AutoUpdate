@@ -1,3 +1,7 @@
+<Version: 1.01>
+/UpdateLog/Update.txt https://projecthost.000webhostapp.com/Update.txt
+<End of Version>
+
 <Version 1.02>
 /data/Map008.json https://projecthost.000webhostapp.com/Map008.json
 /data/System.json https://projecthost.000webhostapp.com/System.json
