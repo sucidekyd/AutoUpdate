@@ -10,5 +10,5 @@
 /data/Map008.json https://projecthost.000webhostapp.com/Map008.json
 /data/System.json https://projecthost.000webhostapp.com/System.json
 /js/plugins/DMY_FixAutoUpdater.js https://projecthost.000webhostapp.com/DMY_FixAutoUpdater.js
-/UpdateLog/Update.txt https://projecthost.000webhostapp.com/Update.txt
+/UpdateLog/Update1.02.txt https://projecthost.000webhostapp.com/Update1.02.txt
 <End of Version>
