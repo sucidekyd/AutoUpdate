@@ -1,5 +1,5 @@
 <Version: 1.01>
-/UpdateLog/test.zip http://jkiddo.x10host.com/LBUpdate/Update.txt
+/UpdateLog/Update.txt http://jkiddo.x10host.com/LBUpdate/Update.txt
 <End of Version>
 
 <Version 1.02>
