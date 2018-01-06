@@ -2,6 +2,12 @@
 /UpdateLog/Update.txt http://jkiddo.x10host.com/LBUpdate/Update.txt
 <End of Version>
 
-<Version 1.02>
-/UpdateLog/test.zip https://wordpress.org/latest.zip
+<Version: 1.02>
+/audio/bgm/Ariadne-Battle_loop.m4a https://projecthost.000webhostapp.com/Ariadne-Battle_loop.m4a
+/audio/bgm/Ariadne-Battle_loop.ogg https://projecthost.000webhostapp.com/Ariadne-Battle_loop.ogg
+/audio/bgm/main-theme02.m4a https://projecthost.000webhostapp.com/main-theme02.m4a
+/audio/bgm/main-theme02.ogg https://projecthost.000webhostapp.com/main-theme02.ogg
+/data/Map008.json https://projecthost.000webhostapp.com/Map008.json
+/data/System.json https://projecthost.000webhostapp.com/System.json
+/js/plugins/DMY_FixAutoUpdater.js https://projecthost.000webhostapp.com/DMY_FixAutoUpdater.js
 <End of Version>
