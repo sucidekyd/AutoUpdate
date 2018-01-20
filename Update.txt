@@ -14,6 +14,8 @@
 <End of Version>
 
 <Version: 1.03>
+/audio/se/Item2.ogg https://projecthost.000webhostapp.com/103/Item2.ogg
+/audio/se/Item2.m4a https://projecthost.000webhostapp.com/103/Item2.m4a
 /data/Map001.json https://projecthost.000webhostapp.com/103/Map001.json
 /data/Map007.json https://projecthost.000webhostapp.com/103/Map007.json
 /data/Map008.json https://projecthost.000webhostapp.com/103/Map008.json
