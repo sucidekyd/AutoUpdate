@@ -12,3 +12,22 @@
 /js/plugins/DMY_FixAutoUpdater.js https://projecthost.000webhostapp.com/DMY_FixAutoUpdater.js
 /UpdateLog/Update102.txt https://projecthost.000webhostapp.com/Update102.txt
 <End of Version>
+
+<Version: 1.03>
+/data/Map001.json https://projecthost.000webhostapp.com/103/Map001.json
+/data/Map007.json https://projecthost.000webhostapp.com/103/Map007.json
+/data/Map008.json https://projecthost.000webhostapp.com/103/Map008.json
+/data/Map009.json https://projecthost.000webhostapp.com/103/Map009.json
+/data/Map010.json https://projecthost.000webhostapp.com/103/Map010.json
+/data/Map012.json https://projecthost.000webhostapp.com/103/Map012.json
+/data/Map013.json https://projecthost.000webhostapp.com/103/Map013.json
+/data/Map014.json https://projecthost.000webhostapp.com/103/Map014.json
+/data/Map016.json https://projecthost.000webhostapp.com/103/Map016.json
+/data/Map017.json https://projecthost.000webhostapp.com/103/Map017.json
+/data/Map018.json https://projecthost.000webhostapp.com/103/Map018.json
+/data/Map019.json https://projecthost.000webhostapp.com/103/Map019.json
+/dta/System.json https://projecthost.000webhostapp.com/103/System.json
+/js/plugins/YEP_BattleEngineCore.js https://projecthost.000webhostapp.com/103/YEP_BattleEngineCore.js
+/js/plugins/YEP_CoreEngine.js https://projecthost.000webhostapp.com/103/YEP_CoreEngine.js
+/js/plugins/YEP_SaveEventLocations.js https://projecthost.000webhostapp.com/103/YEP_SaveEventLocations.js
+<End of Version>
